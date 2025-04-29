@@ -1,0 +1,5 @@
+.env
+*.pyc
+__pycache__/
+env/
+big-guild-458314-b9-9f22260d0711.json
